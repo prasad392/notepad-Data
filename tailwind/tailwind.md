@@ -51,6 +51,8 @@ here we have create the one global.css file and add this
 
     module.exports = withNativeWind(config,{input: "./app/global.css"});
 
-// create a file "nativwind-env.d.ts"
+// create a file "nativeind-env.d.ts"
 
-     /// <reference types="nativewind/types" /> paste this.
+     /// <reference types="nativewind/types" /> 
+     
+     paste this.
